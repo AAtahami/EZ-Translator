@@ -1,0 +1,110 @@
+
+    {
+        
+    "ar":{
+        "name":"Arabic",
+        "nativeName":"العربية",
+        "locale":"ar-AA"
+
+    },
+    
+    "az":{
+        "name":"Azerbaijani",
+        "nativeName":"azərbaycan dili",
+        "locale":"az-Cyrl"
+    },
+    
+    "bn":{
+        "name":"Bengali",
+        "nativeName":"বাংলা",
+        "locale":"bn-BD"
+    },
+    
+    "zh-cn":{
+        "name":"Chinese",
+        "nativeName":"中文 (Zhōngwén), 汉语, 漢語",
+        "locale":"zh-Hans"
+    },
+    "en":{
+        "name":"English",
+        "nativeName":"English",
+        "locale":"en-US"
+    },
+    
+    "fr":{
+        "name":"French",
+        "nativeName":"français, langue française",
+        "locale": "fr-FR"
+    },
+    
+    "de":{
+        "name":"German",
+        "nativeName":"Deutsch",
+        "locale": "el-GR"
+    },
+    "el":{
+        "name":"Greek, Modern",
+        "nativeName":"Ελληνικά",
+        "locale":"el-GR"
+    },
+    "gu":{
+        "name":"Gujarati",
+        "nativeName":"ગુજરાતી",
+        "locale":"gu-IN"
+    },
+    "hi":{
+        "name":"Hindi",
+        "nativeName":"हिन्दी, हिंदी",
+        "local":"hi-IN"
+    },
+    "id":{
+        "name":"Indonesian",
+        "nativeName":"Bahasa Indonesia",
+        "locale":"in-ID"
+    },
+    "it":{
+        "name":"Italian",
+        "nativeName":"Italiano",
+        "locale":"it-IT"
+    },
+    "ja":{
+        "name":"Japanese",
+        "nativeName":"日本語 (にほんご／にっぽんご)",
+        "locale":"ja-JP"
+    },    
+    "ko":{
+        "name":"Korean",
+        "nativeName":"한국어 (韓國語), 조선말 (朝鮮語)",
+        "locale":"ko-KR"
+    },
+    "la":{
+        "name":"Latin",
+        "nativeName":"latine, lingua latina",
+        "locale":"en-US"
+    },
+    "mr":{
+        "name":"Marathi (Marāṭhī)",
+        "nativeName":"मराठी",
+        "locale":"mr-IN"
+    },
+    "ru":{
+        "name":"Russian",
+        "nativeName":"Russia",
+        "locale":"ru-RU"
+    },  
+    "es":{
+        "name":"Spanish",
+        "nativeName":"Spanish",
+        "locale":"es-US"
+    },
+    "th":{
+        "name":"Thai",
+        "nativeName":"Thailand",
+        "locale":"th-TH"
+    },
+    "ur":{
+        "name":"Urdu",
+        "nativeName":"اردو",
+        "locale":"ur-PK"
+    }
+}
